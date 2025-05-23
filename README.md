@@ -1,4 +1,4 @@
-# Dinamicore Technical Test
+# Dynamicore Technical Test
 
 This project is a technical test built with **React**, **TypeScript**, and **Vite**.
 
